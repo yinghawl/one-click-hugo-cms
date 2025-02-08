@@ -28,10 +28,10 @@ intro:
 
 products:
     - image: /img/spotify.png
-      text: "[Spotify](https://open.spotify.com/show/2dC4t8kKh0dCVVWuDw3omS?si=8adbde17654243ae)"
+      text: "[Spotify](bit.ly/4jKXkDA)"
     - image: /img/youtube.png
       text: "[Youtube](https://open.spotify.com/show/2dC4t8kKh0dCVVWuDw3omS?si=8adbde17654243ae)"
     - image: /img/apple podcast.png
-      text: "[Apple Podcast](https://open.spotify.com/show/2dC4t8kKh0dCVVWuDw3omS?si=8adbde17654243ae)"
+      text: "[Apple Podcast](bit.ly/416AxL4)"
 ---
 
