@@ -9,4 +9,4 @@ title = "生命茶坊"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/og-image.jpg"]
+images = ["img/og-image.png"]
